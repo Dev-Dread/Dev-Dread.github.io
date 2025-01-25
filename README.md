@@ -15,6 +15,7 @@
    
 ## Websites I Recommend
    -[YouTube] (https://www.youtube.com/)   
-   * The wide variety of videos you can find on YouTube allows entertainment and education on a wide variety of subjects.  
+   * The wide variety of videos you can find on YouTube allows entertainment and education on a wide variety of subjects.
+     
    -[Microsoft Learn] (https://learn.microsoft.com/en-us/)
    * Microsoft Learn has a whole wealth of information regarding Microsoft systems.
